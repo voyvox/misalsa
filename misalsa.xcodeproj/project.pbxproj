@@ -14,6 +14,79 @@
 		9C201E4D1E6F214A00F00104 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E4B1E6F214A00F00104 /* Main.storyboard */; };
 		9C201E4F1E6F214A00F00104 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E4E1E6F214A00F00104 /* Assets.xcassets */; };
 		9C201E521E6F214A00F00104 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E501E6F214A00F00104 /* LaunchScreen.storyboard */; };
+		9C201EA31E6F289E00F00104 /* LeagueSpartan-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E5A1E6F289E00F00104 /* LeagueSpartan-Bold.otf */; };
+		9C201EA41E6F289E00F00104 /* lmmono8-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E5B1E6F289E00F00104 /* lmmono8-regular.otf */; };
+		9C201EA51E6F289E00F00104 /* lmmono9-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E5C1E6F289E00F00104 /* lmmono9-regular.otf */; };
+		9C201EA61E6F289E00F00104 /* lmmono10-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E5D1E6F289E00F00104 /* lmmono10-italic.otf */; };
+		9C201EA71E6F289E00F00104 /* lmmono10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E5E1E6F289E00F00104 /* lmmono10-regular.otf */; };
+		9C201EA81E6F289E00F00104 /* lmmono12-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E5F1E6F289E00F00104 /* lmmono12-regular.otf */; };
+		9C201EA91E6F289E00F00104 /* lmmonocaps10-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E601E6F289E00F00104 /* lmmonocaps10-oblique.otf */; };
+		9C201EAA1E6F289E00F00104 /* lmmonocaps10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E611E6F289E00F00104 /* lmmonocaps10-regular.otf */; };
+		9C201EAB1E6F289E00F00104 /* lmmonolt10-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E621E6F289E00F00104 /* lmmonolt10-bold.otf */; };
+		9C201EAC1E6F289E00F00104 /* lmmonolt10-boldoblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E631E6F289E00F00104 /* lmmonolt10-boldoblique.otf */; };
+		9C201EAD1E6F289E00F00104 /* lmmonolt10-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E641E6F289E00F00104 /* lmmonolt10-oblique.otf */; };
+		9C201EAE1E6F289E00F00104 /* lmmonolt10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E651E6F289E00F00104 /* lmmonolt10-regular.otf */; };
+		9C201EAF1E6F289E00F00104 /* lmmonoltcond10-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E661E6F289E00F00104 /* lmmonoltcond10-oblique.otf */; };
+		9C201EB01E6F289E00F00104 /* lmmonoltcond10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E671E6F289E00F00104 /* lmmonoltcond10-regular.otf */; };
+		9C201EB11E6F289E00F00104 /* lmmonoprop10-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E681E6F289E00F00104 /* lmmonoprop10-oblique.otf */; };
+		9C201EB21E6F289E00F00104 /* lmmonoprop10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E691E6F289E00F00104 /* lmmonoprop10-regular.otf */; };
+		9C201EB31E6F289E00F00104 /* lmmonoproplt10-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E6A1E6F289E00F00104 /* lmmonoproplt10-bold.otf */; };
+		9C201EB41E6F289E00F00104 /* lmmonoproplt10-boldoblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E6B1E6F289E00F00104 /* lmmonoproplt10-boldoblique.otf */; };
+		9C201EB51E6F289E00F00104 /* lmmonoproplt10-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E6C1E6F289E00F00104 /* lmmonoproplt10-oblique.otf */; };
+		9C201EB61E6F289E00F00104 /* lmmonoproplt10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E6D1E6F289E00F00104 /* lmmonoproplt10-regular.otf */; };
+		9C201EB71E6F289E00F00104 /* lmmonoslant10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E6E1E6F289E00F00104 /* lmmonoslant10-regular.otf */; };
+		9C201EB81E6F289E00F00104 /* lmroman5-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E6F1E6F289E00F00104 /* lmroman5-bold.otf */; };
+		9C201EB91E6F289E00F00104 /* lmroman5-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E701E6F289E00F00104 /* lmroman5-regular.otf */; };
+		9C201EBA1E6F289E00F00104 /* lmroman6-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E711E6F289E00F00104 /* lmroman6-bold.otf */; };
+		9C201EBB1E6F289E00F00104 /* lmroman6-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E721E6F289E00F00104 /* lmroman6-regular.otf */; };
+		9C201EBC1E6F289E00F00104 /* lmroman7-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E731E6F289E00F00104 /* lmroman7-bold.otf */; };
+		9C201EBD1E6F289E00F00104 /* lmroman7-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E741E6F289E00F00104 /* lmroman7-italic.otf */; };
+		9C201EBE1E6F289E00F00104 /* lmroman7-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E751E6F289E00F00104 /* lmroman7-regular.otf */; };
+		9C201EBF1E6F289E00F00104 /* lmroman8-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E761E6F289E00F00104 /* lmroman8-bold.otf */; };
+		9C201EC01E6F289E00F00104 /* lmroman8-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E771E6F289E00F00104 /* lmroman8-italic.otf */; };
+		9C201EC11E6F289E00F00104 /* lmroman8-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E781E6F289E00F00104 /* lmroman8-regular.otf */; };
+		9C201EC21E6F289E00F00104 /* lmroman9-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E791E6F289E00F00104 /* lmroman9-bold.otf */; };
+		9C201EC31E6F289E00F00104 /* lmroman9-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E7A1E6F289E00F00104 /* lmroman9-italic.otf */; };
+		9C201EC41E6F289E00F00104 /* lmroman9-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E7B1E6F289E00F00104 /* lmroman9-regular.otf */; };
+		9C201EC51E6F289E00F00104 /* lmroman10-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E7C1E6F289E00F00104 /* lmroman10-bold.otf */; };
+		9C201EC61E6F289E00F00104 /* lmroman10-bolditalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E7D1E6F289E00F00104 /* lmroman10-bolditalic.otf */; };
+		9C201EC71E6F289E00F00104 /* lmroman10-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E7E1E6F289E00F00104 /* lmroman10-italic.otf */; };
+		9C201EC81E6F289E00F00104 /* lmroman10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E7F1E6F289E00F00104 /* lmroman10-regular.otf */; };
+		9C201EC91E6F289E00F00104 /* lmroman12-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E801E6F289E00F00104 /* lmroman12-bold.otf */; };
+		9C201ECA1E6F289E00F00104 /* lmroman12-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E811E6F289E00F00104 /* lmroman12-italic.otf */; };
+		9C201ECB1E6F289E00F00104 /* lmroman12-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E821E6F289E00F00104 /* lmroman12-regular.otf */; };
+		9C201ECC1E6F289E00F00104 /* lmroman17-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E831E6F289E00F00104 /* lmroman17-regular.otf */; };
+		9C201ECD1E6F289E00F00104 /* lmromancaps10-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E841E6F289E00F00104 /* lmromancaps10-oblique.otf */; };
+		9C201ECE1E6F289E00F00104 /* lmromancaps10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E851E6F289E00F00104 /* lmromancaps10-regular.otf */; };
+		9C201ECF1E6F289E00F00104 /* lmromandemi10-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E861E6F289E00F00104 /* lmromandemi10-oblique.otf */; };
+		9C201ED01E6F289E00F00104 /* lmromandemi10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E871E6F289E00F00104 /* lmromandemi10-regular.otf */; };
+		9C201ED11E6F289E00F00104 /* lmromandunh10-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E881E6F289E00F00104 /* lmromandunh10-oblique.otf */; };
+		9C201ED21E6F289E00F00104 /* lmromandunh10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E891E6F289E00F00104 /* lmromandunh10-regular.otf */; };
+		9C201ED31E6F289E00F00104 /* lmromanslant8-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E8A1E6F289E00F00104 /* lmromanslant8-regular.otf */; };
+		9C201ED41E6F289E00F00104 /* lmromanslant9-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E8B1E6F289E00F00104 /* lmromanslant9-regular.otf */; };
+		9C201ED51E6F289E00F00104 /* lmromanslant10-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E8C1E6F289E00F00104 /* lmromanslant10-bold.otf */; };
+		9C201ED61E6F289E00F00104 /* lmromanslant10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E8D1E6F289E00F00104 /* lmromanslant10-regular.otf */; };
+		9C201ED71E6F289E00F00104 /* lmromanslant12-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E8E1E6F289E00F00104 /* lmromanslant12-regular.otf */; };
+		9C201ED81E6F289E00F00104 /* lmromanslant17-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E8F1E6F289E00F00104 /* lmromanslant17-regular.otf */; };
+		9C201ED91E6F289E00F00104 /* lmromanunsl10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E901E6F289E00F00104 /* lmromanunsl10-regular.otf */; };
+		9C201EDA1E6F289E00F00104 /* lmsans8-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E911E6F289E00F00104 /* lmsans8-oblique.otf */; };
+		9C201EDB1E6F289E00F00104 /* lmsans8-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E921E6F289E00F00104 /* lmsans8-regular.otf */; };
+		9C201EDC1E6F289E00F00104 /* lmsans9-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E931E6F289E00F00104 /* lmsans9-oblique.otf */; };
+		9C201EDD1E6F289E00F00104 /* lmsans9-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E941E6F289E00F00104 /* lmsans9-regular.otf */; };
+		9C201EDE1E6F289E00F00104 /* lmsans10-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E951E6F289E00F00104 /* lmsans10-bold.otf */; };
+		9C201EDF1E6F289E00F00104 /* lmsans10-boldoblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E961E6F289E00F00104 /* lmsans10-boldoblique.otf */; };
+		9C201EE01E6F289E00F00104 /* lmsans10-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E971E6F289E00F00104 /* lmsans10-oblique.otf */; };
+		9C201EE11E6F289E00F00104 /* lmsans10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E981E6F289E00F00104 /* lmsans10-regular.otf */; };
+		9C201EE21E6F289E00F00104 /* lmsans12-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E991E6F289E00F00104 /* lmsans12-oblique.otf */; };
+		9C201EE31E6F289E00F00104 /* lmsans12-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E9A1E6F289E00F00104 /* lmsans12-regular.otf */; };
+		9C201EE41E6F289E00F00104 /* lmsans17-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E9B1E6F289E00F00104 /* lmsans17-oblique.otf */; };
+		9C201EE51E6F289E00F00104 /* lmsans17-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E9C1E6F289E00F00104 /* lmsans17-regular.otf */; };
+		9C201EE61E6F289E00F00104 /* lmsansdemicond10-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E9D1E6F289E00F00104 /* lmsansdemicond10-oblique.otf */; };
+		9C201EE71E6F289E00F00104 /* lmsansdemicond10-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E9E1E6F289E00F00104 /* lmsansdemicond10-regular.otf */; };
+		9C201EE81E6F289E00F00104 /* lmsansquot8-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201E9F1E6F289E00F00104 /* lmsansquot8-bold.otf */; };
+		9C201EE91E6F289E00F00104 /* lmsansquot8-boldoblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201EA01E6F289E00F00104 /* lmsansquot8-boldoblique.otf */; };
+		9C201EEA1E6F289E00F00104 /* lmsansquot8-oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201EA11E6F289E00F00104 /* lmsansquot8-oblique.otf */; };
+		9C201EEB1E6F289E00F00104 /* lmsansquot8-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C201EA21E6F289E00F00104 /* lmsansquot8-regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +99,79 @@
 		9C201E4E1E6F214A00F00104 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C201E511E6F214A00F00104 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9C201E531E6F214A00F00104 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C201E5A1E6F289E00F00104 /* LeagueSpartan-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "LeagueSpartan-Bold.otf"; sourceTree = "<group>"; };
+		9C201E5B1E6F289E00F00104 /* lmmono8-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmono8-regular.otf"; sourceTree = "<group>"; };
+		9C201E5C1E6F289E00F00104 /* lmmono9-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmono9-regular.otf"; sourceTree = "<group>"; };
+		9C201E5D1E6F289E00F00104 /* lmmono10-italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmono10-italic.otf"; sourceTree = "<group>"; };
+		9C201E5E1E6F289E00F00104 /* lmmono10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmono10-regular.otf"; sourceTree = "<group>"; };
+		9C201E5F1E6F289E00F00104 /* lmmono12-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmono12-regular.otf"; sourceTree = "<group>"; };
+		9C201E601E6F289E00F00104 /* lmmonocaps10-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonocaps10-oblique.otf"; sourceTree = "<group>"; };
+		9C201E611E6F289E00F00104 /* lmmonocaps10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonocaps10-regular.otf"; sourceTree = "<group>"; };
+		9C201E621E6F289E00F00104 /* lmmonolt10-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonolt10-bold.otf"; sourceTree = "<group>"; };
+		9C201E631E6F289E00F00104 /* lmmonolt10-boldoblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonolt10-boldoblique.otf"; sourceTree = "<group>"; };
+		9C201E641E6F289E00F00104 /* lmmonolt10-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonolt10-oblique.otf"; sourceTree = "<group>"; };
+		9C201E651E6F289E00F00104 /* lmmonolt10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonolt10-regular.otf"; sourceTree = "<group>"; };
+		9C201E661E6F289E00F00104 /* lmmonoltcond10-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonoltcond10-oblique.otf"; sourceTree = "<group>"; };
+		9C201E671E6F289E00F00104 /* lmmonoltcond10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonoltcond10-regular.otf"; sourceTree = "<group>"; };
+		9C201E681E6F289E00F00104 /* lmmonoprop10-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonoprop10-oblique.otf"; sourceTree = "<group>"; };
+		9C201E691E6F289E00F00104 /* lmmonoprop10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonoprop10-regular.otf"; sourceTree = "<group>"; };
+		9C201E6A1E6F289E00F00104 /* lmmonoproplt10-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonoproplt10-bold.otf"; sourceTree = "<group>"; };
+		9C201E6B1E6F289E00F00104 /* lmmonoproplt10-boldoblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonoproplt10-boldoblique.otf"; sourceTree = "<group>"; };
+		9C201E6C1E6F289E00F00104 /* lmmonoproplt10-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonoproplt10-oblique.otf"; sourceTree = "<group>"; };
+		9C201E6D1E6F289E00F00104 /* lmmonoproplt10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonoproplt10-regular.otf"; sourceTree = "<group>"; };
+		9C201E6E1E6F289E00F00104 /* lmmonoslant10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmmonoslant10-regular.otf"; sourceTree = "<group>"; };
+		9C201E6F1E6F289E00F00104 /* lmroman5-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman5-bold.otf"; sourceTree = "<group>"; };
+		9C201E701E6F289E00F00104 /* lmroman5-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman5-regular.otf"; sourceTree = "<group>"; };
+		9C201E711E6F289E00F00104 /* lmroman6-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman6-bold.otf"; sourceTree = "<group>"; };
+		9C201E721E6F289E00F00104 /* lmroman6-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman6-regular.otf"; sourceTree = "<group>"; };
+		9C201E731E6F289E00F00104 /* lmroman7-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman7-bold.otf"; sourceTree = "<group>"; };
+		9C201E741E6F289E00F00104 /* lmroman7-italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman7-italic.otf"; sourceTree = "<group>"; };
+		9C201E751E6F289E00F00104 /* lmroman7-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman7-regular.otf"; sourceTree = "<group>"; };
+		9C201E761E6F289E00F00104 /* lmroman8-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman8-bold.otf"; sourceTree = "<group>"; };
+		9C201E771E6F289E00F00104 /* lmroman8-italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman8-italic.otf"; sourceTree = "<group>"; };
+		9C201E781E6F289E00F00104 /* lmroman8-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman8-regular.otf"; sourceTree = "<group>"; };
+		9C201E791E6F289E00F00104 /* lmroman9-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman9-bold.otf"; sourceTree = "<group>"; };
+		9C201E7A1E6F289E00F00104 /* lmroman9-italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman9-italic.otf"; sourceTree = "<group>"; };
+		9C201E7B1E6F289E00F00104 /* lmroman9-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman9-regular.otf"; sourceTree = "<group>"; };
+		9C201E7C1E6F289E00F00104 /* lmroman10-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman10-bold.otf"; sourceTree = "<group>"; };
+		9C201E7D1E6F289E00F00104 /* lmroman10-bolditalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman10-bolditalic.otf"; sourceTree = "<group>"; };
+		9C201E7E1E6F289E00F00104 /* lmroman10-italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman10-italic.otf"; sourceTree = "<group>"; };
+		9C201E7F1E6F289E00F00104 /* lmroman10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman10-regular.otf"; sourceTree = "<group>"; };
+		9C201E801E6F289E00F00104 /* lmroman12-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman12-bold.otf"; sourceTree = "<group>"; };
+		9C201E811E6F289E00F00104 /* lmroman12-italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman12-italic.otf"; sourceTree = "<group>"; };
+		9C201E821E6F289E00F00104 /* lmroman12-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman12-regular.otf"; sourceTree = "<group>"; };
+		9C201E831E6F289E00F00104 /* lmroman17-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmroman17-regular.otf"; sourceTree = "<group>"; };
+		9C201E841E6F289E00F00104 /* lmromancaps10-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromancaps10-oblique.otf"; sourceTree = "<group>"; };
+		9C201E851E6F289E00F00104 /* lmromancaps10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromancaps10-regular.otf"; sourceTree = "<group>"; };
+		9C201E861E6F289E00F00104 /* lmromandemi10-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromandemi10-oblique.otf"; sourceTree = "<group>"; };
+		9C201E871E6F289E00F00104 /* lmromandemi10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromandemi10-regular.otf"; sourceTree = "<group>"; };
+		9C201E881E6F289E00F00104 /* lmromandunh10-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromandunh10-oblique.otf"; sourceTree = "<group>"; };
+		9C201E891E6F289E00F00104 /* lmromandunh10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromandunh10-regular.otf"; sourceTree = "<group>"; };
+		9C201E8A1E6F289E00F00104 /* lmromanslant8-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromanslant8-regular.otf"; sourceTree = "<group>"; };
+		9C201E8B1E6F289E00F00104 /* lmromanslant9-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromanslant9-regular.otf"; sourceTree = "<group>"; };
+		9C201E8C1E6F289E00F00104 /* lmromanslant10-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromanslant10-bold.otf"; sourceTree = "<group>"; };
+		9C201E8D1E6F289E00F00104 /* lmromanslant10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromanslant10-regular.otf"; sourceTree = "<group>"; };
+		9C201E8E1E6F289E00F00104 /* lmromanslant12-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromanslant12-regular.otf"; sourceTree = "<group>"; };
+		9C201E8F1E6F289E00F00104 /* lmromanslant17-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromanslant17-regular.otf"; sourceTree = "<group>"; };
+		9C201E901E6F289E00F00104 /* lmromanunsl10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmromanunsl10-regular.otf"; sourceTree = "<group>"; };
+		9C201E911E6F289E00F00104 /* lmsans8-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans8-oblique.otf"; sourceTree = "<group>"; };
+		9C201E921E6F289E00F00104 /* lmsans8-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans8-regular.otf"; sourceTree = "<group>"; };
+		9C201E931E6F289E00F00104 /* lmsans9-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans9-oblique.otf"; sourceTree = "<group>"; };
+		9C201E941E6F289E00F00104 /* lmsans9-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans9-regular.otf"; sourceTree = "<group>"; };
+		9C201E951E6F289E00F00104 /* lmsans10-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans10-bold.otf"; sourceTree = "<group>"; };
+		9C201E961E6F289E00F00104 /* lmsans10-boldoblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans10-boldoblique.otf"; sourceTree = "<group>"; };
+		9C201E971E6F289E00F00104 /* lmsans10-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans10-oblique.otf"; sourceTree = "<group>"; };
+		9C201E981E6F289E00F00104 /* lmsans10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans10-regular.otf"; sourceTree = "<group>"; };
+		9C201E991E6F289E00F00104 /* lmsans12-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans12-oblique.otf"; sourceTree = "<group>"; };
+		9C201E9A1E6F289E00F00104 /* lmsans12-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans12-regular.otf"; sourceTree = "<group>"; };
+		9C201E9B1E6F289E00F00104 /* lmsans17-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans17-oblique.otf"; sourceTree = "<group>"; };
+		9C201E9C1E6F289E00F00104 /* lmsans17-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsans17-regular.otf"; sourceTree = "<group>"; };
+		9C201E9D1E6F289E00F00104 /* lmsansdemicond10-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsansdemicond10-oblique.otf"; sourceTree = "<group>"; };
+		9C201E9E1E6F289E00F00104 /* lmsansdemicond10-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsansdemicond10-regular.otf"; sourceTree = "<group>"; };
+		9C201E9F1E6F289E00F00104 /* lmsansquot8-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsansquot8-bold.otf"; sourceTree = "<group>"; };
+		9C201EA01E6F289E00F00104 /* lmsansquot8-boldoblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsansquot8-boldoblique.otf"; sourceTree = "<group>"; };
+		9C201EA11E6F289E00F00104 /* lmsansquot8-oblique.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsansquot8-oblique.otf"; sourceTree = "<group>"; };
+		9C201EA21E6F289E00F00104 /* lmsansquot8-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lmsansquot8-regular.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +204,7 @@
 		9C201E421E6F214900F00104 /* misalsa */ = {
 			isa = PBXGroup;
 			children = (
+				9C201E591E6F282D00F00104 /* Resources */,
 				9C201E431E6F214900F00104 /* AppDelegate.swift */,
 				9C201E451E6F214900F00104 /* RootViewController.swift */,
 				9C201E471E6F214900F00104 /* DataViewController.swift */,
@@ -68,6 +215,86 @@
 				9C201E531E6F214A00F00104 /* Info.plist */,
 			);
 			path = misalsa;
+			sourceTree = "<group>";
+		};
+		9C201E591E6F282D00F00104 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9C201E5A1E6F289E00F00104 /* LeagueSpartan-Bold.otf */,
+				9C201E5B1E6F289E00F00104 /* lmmono8-regular.otf */,
+				9C201E5C1E6F289E00F00104 /* lmmono9-regular.otf */,
+				9C201E5D1E6F289E00F00104 /* lmmono10-italic.otf */,
+				9C201E5E1E6F289E00F00104 /* lmmono10-regular.otf */,
+				9C201E5F1E6F289E00F00104 /* lmmono12-regular.otf */,
+				9C201E601E6F289E00F00104 /* lmmonocaps10-oblique.otf */,
+				9C201E611E6F289E00F00104 /* lmmonocaps10-regular.otf */,
+				9C201E621E6F289E00F00104 /* lmmonolt10-bold.otf */,
+				9C201E631E6F289E00F00104 /* lmmonolt10-boldoblique.otf */,
+				9C201E641E6F289E00F00104 /* lmmonolt10-oblique.otf */,
+				9C201E651E6F289E00F00104 /* lmmonolt10-regular.otf */,
+				9C201E661E6F289E00F00104 /* lmmonoltcond10-oblique.otf */,
+				9C201E671E6F289E00F00104 /* lmmonoltcond10-regular.otf */,
+				9C201E681E6F289E00F00104 /* lmmonoprop10-oblique.otf */,
+				9C201E691E6F289E00F00104 /* lmmonoprop10-regular.otf */,
+				9C201E6A1E6F289E00F00104 /* lmmonoproplt10-bold.otf */,
+				9C201E6B1E6F289E00F00104 /* lmmonoproplt10-boldoblique.otf */,
+				9C201E6C1E6F289E00F00104 /* lmmonoproplt10-oblique.otf */,
+				9C201E6D1E6F289E00F00104 /* lmmonoproplt10-regular.otf */,
+				9C201E6E1E6F289E00F00104 /* lmmonoslant10-regular.otf */,
+				9C201E6F1E6F289E00F00104 /* lmroman5-bold.otf */,
+				9C201E701E6F289E00F00104 /* lmroman5-regular.otf */,
+				9C201E711E6F289E00F00104 /* lmroman6-bold.otf */,
+				9C201E721E6F289E00F00104 /* lmroman6-regular.otf */,
+				9C201E731E6F289E00F00104 /* lmroman7-bold.otf */,
+				9C201E741E6F289E00F00104 /* lmroman7-italic.otf */,
+				9C201E751E6F289E00F00104 /* lmroman7-regular.otf */,
+				9C201E761E6F289E00F00104 /* lmroman8-bold.otf */,
+				9C201E771E6F289E00F00104 /* lmroman8-italic.otf */,
+				9C201E781E6F289E00F00104 /* lmroman8-regular.otf */,
+				9C201E791E6F289E00F00104 /* lmroman9-bold.otf */,
+				9C201E7A1E6F289E00F00104 /* lmroman9-italic.otf */,
+				9C201E7B1E6F289E00F00104 /* lmroman9-regular.otf */,
+				9C201E7C1E6F289E00F00104 /* lmroman10-bold.otf */,
+				9C201E7D1E6F289E00F00104 /* lmroman10-bolditalic.otf */,
+				9C201E7E1E6F289E00F00104 /* lmroman10-italic.otf */,
+				9C201E7F1E6F289E00F00104 /* lmroman10-regular.otf */,
+				9C201E801E6F289E00F00104 /* lmroman12-bold.otf */,
+				9C201E811E6F289E00F00104 /* lmroman12-italic.otf */,
+				9C201E821E6F289E00F00104 /* lmroman12-regular.otf */,
+				9C201E831E6F289E00F00104 /* lmroman17-regular.otf */,
+				9C201E841E6F289E00F00104 /* lmromancaps10-oblique.otf */,
+				9C201E851E6F289E00F00104 /* lmromancaps10-regular.otf */,
+				9C201E861E6F289E00F00104 /* lmromandemi10-oblique.otf */,
+				9C201E871E6F289E00F00104 /* lmromandemi10-regular.otf */,
+				9C201E881E6F289E00F00104 /* lmromandunh10-oblique.otf */,
+				9C201E891E6F289E00F00104 /* lmromandunh10-regular.otf */,
+				9C201E8A1E6F289E00F00104 /* lmromanslant8-regular.otf */,
+				9C201E8B1E6F289E00F00104 /* lmromanslant9-regular.otf */,
+				9C201E8C1E6F289E00F00104 /* lmromanslant10-bold.otf */,
+				9C201E8D1E6F289E00F00104 /* lmromanslant10-regular.otf */,
+				9C201E8E1E6F289E00F00104 /* lmromanslant12-regular.otf */,
+				9C201E8F1E6F289E00F00104 /* lmromanslant17-regular.otf */,
+				9C201E901E6F289E00F00104 /* lmromanunsl10-regular.otf */,
+				9C201E911E6F289E00F00104 /* lmsans8-oblique.otf */,
+				9C201E921E6F289E00F00104 /* lmsans8-regular.otf */,
+				9C201E931E6F289E00F00104 /* lmsans9-oblique.otf */,
+				9C201E941E6F289E00F00104 /* lmsans9-regular.otf */,
+				9C201E951E6F289E00F00104 /* lmsans10-bold.otf */,
+				9C201E961E6F289E00F00104 /* lmsans10-boldoblique.otf */,
+				9C201E971E6F289E00F00104 /* lmsans10-oblique.otf */,
+				9C201E981E6F289E00F00104 /* lmsans10-regular.otf */,
+				9C201E991E6F289E00F00104 /* lmsans12-oblique.otf */,
+				9C201E9A1E6F289E00F00104 /* lmsans12-regular.otf */,
+				9C201E9B1E6F289E00F00104 /* lmsans17-oblique.otf */,
+				9C201E9C1E6F289E00F00104 /* lmsans17-regular.otf */,
+				9C201E9D1E6F289E00F00104 /* lmsansdemicond10-oblique.otf */,
+				9C201E9E1E6F289E00F00104 /* lmsansdemicond10-regular.otf */,
+				9C201E9F1E6F289E00F00104 /* lmsansquot8-bold.otf */,
+				9C201EA01E6F289E00F00104 /* lmsansquot8-boldoblique.otf */,
+				9C201EA11E6F289E00F00104 /* lmsansquot8-oblique.otf */,
+				9C201EA21E6F289E00F00104 /* lmsansquot8-regular.otf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -130,9 +357,82 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C201EDD1E6F289E00F00104 /* lmsans9-regular.otf in Resources */,
+				9C201EC21E6F289E00F00104 /* lmroman9-bold.otf in Resources */,
+				9C201ED21E6F289E00F00104 /* lmromandunh10-regular.otf in Resources */,
+				9C201EDA1E6F289E00F00104 /* lmsans8-oblique.otf in Resources */,
+				9C201ED91E6F289E00F00104 /* lmromanunsl10-regular.otf in Resources */,
+				9C201EC11E6F289E00F00104 /* lmroman8-regular.otf in Resources */,
+				9C201EA61E6F289E00F00104 /* lmmono10-italic.otf in Resources */,
+				9C201EB51E6F289E00F00104 /* lmmonoproplt10-oblique.otf in Resources */,
+				9C201EBD1E6F289E00F00104 /* lmroman7-italic.otf in Resources */,
+				9C201EC71E6F289E00F00104 /* lmroman10-italic.otf in Resources */,
+				9C201EE81E6F289E00F00104 /* lmsansquot8-bold.otf in Resources */,
+				9C201ED11E6F289E00F00104 /* lmromandunh10-oblique.otf in Resources */,
+				9C201EBB1E6F289E00F00104 /* lmroman6-regular.otf in Resources */,
+				9C201EC81E6F289E00F00104 /* lmroman10-regular.otf in Resources */,
+				9C201EBF1E6F289E00F00104 /* lmroman8-bold.otf in Resources */,
+				9C201EC61E6F289E00F00104 /* lmroman10-bolditalic.otf in Resources */,
+				9C201EA51E6F289E00F00104 /* lmmono9-regular.otf in Resources */,
+				9C201EBA1E6F289E00F00104 /* lmroman6-bold.otf in Resources */,
+				9C201EAD1E6F289E00F00104 /* lmmonolt10-oblique.otf in Resources */,
+				9C201EB11E6F289E00F00104 /* lmmonoprop10-oblique.otf in Resources */,
 				9C201E521E6F214A00F00104 /* LaunchScreen.storyboard in Resources */,
+				9C201EC31E6F289E00F00104 /* lmroman9-italic.otf in Resources */,
+				9C201EC01E6F289E00F00104 /* lmroman8-italic.otf in Resources */,
+				9C201ED61E6F289E00F00104 /* lmromanslant10-regular.otf in Resources */,
+				9C201EB21E6F289E00F00104 /* lmmonoprop10-regular.otf in Resources */,
+				9C201ECE1E6F289E00F00104 /* lmromancaps10-regular.otf in Resources */,
+				9C201ECC1E6F289E00F00104 /* lmroman17-regular.otf in Resources */,
+				9C201ECF1E6F289E00F00104 /* lmromandemi10-oblique.otf in Resources */,
+				9C201EB41E6F289E00F00104 /* lmmonoproplt10-boldoblique.otf in Resources */,
+				9C201EAC1E6F289E00F00104 /* lmmonolt10-boldoblique.otf in Resources */,
+				9C201EE11E6F289E00F00104 /* lmsans10-regular.otf in Resources */,
+				9C201ED51E6F289E00F00104 /* lmromanslant10-bold.otf in Resources */,
+				9C201EEB1E6F289E00F00104 /* lmsansquot8-regular.otf in Resources */,
+				9C201ED81E6F289E00F00104 /* lmromanslant17-regular.otf in Resources */,
+				9C201EE21E6F289E00F00104 /* lmsans12-oblique.otf in Resources */,
+				9C201EB81E6F289E00F00104 /* lmroman5-bold.otf in Resources */,
+				9C201EA91E6F289E00F00104 /* lmmonocaps10-oblique.otf in Resources */,
+				9C201EE31E6F289E00F00104 /* lmsans12-regular.otf in Resources */,
+				9C201EE71E6F289E00F00104 /* lmsansdemicond10-regular.otf in Resources */,
+				9C201EE01E6F289E00F00104 /* lmsans10-oblique.otf in Resources */,
+				9C201EE41E6F289E00F00104 /* lmsans17-oblique.otf in Resources */,
+				9C201EB31E6F289E00F00104 /* lmmonoproplt10-bold.otf in Resources */,
+				9C201EBC1E6F289E00F00104 /* lmroman7-bold.otf in Resources */,
+				9C201EAF1E6F289E00F00104 /* lmmonoltcond10-oblique.otf in Resources */,
+				9C201ECD1E6F289E00F00104 /* lmromancaps10-oblique.otf in Resources */,
+				9C201EA41E6F289E00F00104 /* lmmono8-regular.otf in Resources */,
+				9C201EC91E6F289E00F00104 /* lmroman12-bold.otf in Resources */,
+				9C201EBE1E6F289E00F00104 /* lmroman7-regular.otf in Resources */,
+				9C201ECB1E6F289E00F00104 /* lmroman12-regular.otf in Resources */,
+				9C201EB61E6F289E00F00104 /* lmmonoproplt10-regular.otf in Resources */,
+				9C201ED41E6F289E00F00104 /* lmromanslant9-regular.otf in Resources */,
+				9C201EDC1E6F289E00F00104 /* lmsans9-oblique.otf in Resources */,
+				9C201EC41E6F289E00F00104 /* lmroman9-regular.otf in Resources */,
+				9C201EDB1E6F289E00F00104 /* lmsans8-regular.otf in Resources */,
+				9C201EEA1E6F289E00F00104 /* lmsansquot8-oblique.otf in Resources */,
+				9C201EDE1E6F289E00F00104 /* lmsans10-bold.otf in Resources */,
 				9C201E4F1E6F214A00F00104 /* Assets.xcassets in Resources */,
+				9C201EE61E6F289E00F00104 /* lmsansdemicond10-oblique.otf in Resources */,
+				9C201EA71E6F289E00F00104 /* lmmono10-regular.otf in Resources */,
+				9C201ECA1E6F289E00F00104 /* lmroman12-italic.otf in Resources */,
+				9C201ED71E6F289E00F00104 /* lmromanslant12-regular.otf in Resources */,
+				9C201EA81E6F289E00F00104 /* lmmono12-regular.otf in Resources */,
+				9C201EB01E6F289E00F00104 /* lmmonoltcond10-regular.otf in Resources */,
+				9C201EE51E6F289E00F00104 /* lmsans17-regular.otf in Resources */,
 				9C201E4D1E6F214A00F00104 /* Main.storyboard in Resources */,
+				9C201EAE1E6F289E00F00104 /* lmmonolt10-regular.otf in Resources */,
+				9C201EB71E6F289E00F00104 /* lmmonoslant10-regular.otf in Resources */,
+				9C201EA31E6F289E00F00104 /* LeagueSpartan-Bold.otf in Resources */,
+				9C201ED01E6F289E00F00104 /* lmromandemi10-regular.otf in Resources */,
+				9C201ED31E6F289E00F00104 /* lmromanslant8-regular.otf in Resources */,
+				9C201EE91E6F289E00F00104 /* lmsansquot8-boldoblique.otf in Resources */,
+				9C201EC51E6F289E00F00104 /* lmroman10-bold.otf in Resources */,
+				9C201EB91E6F289E00F00104 /* lmroman5-regular.otf in Resources */,
+				9C201EDF1E6F289E00F00104 /* lmsans10-boldoblique.otf in Resources */,
+				9C201EAA1E6F289E00F00104 /* lmmonocaps10-regular.otf in Resources */,
+				9C201EAB1E6F289E00F00104 /* lmmonolt10-bold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
